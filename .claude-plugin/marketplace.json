@@ -1,0 +1,23 @@
+{
+  "name": "gabbasov-odoo-tools",
+  "owner": {
+    "name": "Dinar Gabbasov"
+  },
+  "description": "Curated Claude Code tooling for Odoo development, Odoo 16 to 18 migrations, testing, review, OWL, local source indexing, and optional Doodba workflows.",
+  "plugins": [
+    {
+      "name": "odoo-claude",
+      "source": "./plugins/odoo-claude",
+      "description": "Version-aware Odoo engineering skills, migration/testing/review workflows, OWL guidance, local source indexing, and optional Doodba integration.",
+      "category": "development",
+      "tags": [
+        "odoo",
+        "python",
+        "migration",
+        "testing",
+        "owl",
+        "doodba"
+      ]
+    }
+  ]
+}
