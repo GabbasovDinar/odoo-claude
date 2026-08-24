@@ -1,0 +1,21 @@
+{
+  "name": "odoo-claude",
+  "displayName": "Odoo Engineering for Claude Code",
+  "description": "Curated Odoo engineering skills for addon development, Odoo 16 to 18 migrations, testing, review, OWL/frontend work, local source indexing, and optional Doodba project integration.",
+  "author": {
+    "name": "Dinar Gabbasov"
+  },
+  "homepage": "https://github.com/GabbasovDinar/odoo-claude",
+  "repository": "https://github.com/GabbasovDinar/odoo-claude",
+  "license": "MIT",
+  "keywords": [
+    "odoo",
+    "claude-code",
+    "python",
+    "migration",
+    "testing",
+    "owl",
+    "indexer",
+    "doodba"
+  ]
+}
